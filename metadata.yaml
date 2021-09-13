@@ -1,0 +1,24 @@
+_repo: Travels-in-Nova-Scotia-in-the-Year-1913_66126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hine, C. G. (Charles Gilbert)
+    alias: Hine, Charles Gilbert
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '26090'
+    url: http://www.gutenberg.org/2009/agents/26090
+description: ''
+gutenberg_issued: '2021-08-24'
+identifiers:
+  gutenberg: '66126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Nova Scotia -- Description and travel'
+- GITenberg
+title: Travels in Nova Scotia in the Year 1913
+url: http://www.gutenberg.org/ebooks/66126
